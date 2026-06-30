@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0042/WYG/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 直講李先生文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 09:04:12.362048'
+  source:
+    repository: kanripo
+    path: KR4d0042/KR4d0042_012.txt
+hash: sha256:40fb16c759a925fb4630e154a26956474c766e08263ce164ed2d5aaa6e3e9726
