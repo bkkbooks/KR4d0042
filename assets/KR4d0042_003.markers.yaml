@@ -76,7 +76,6 @@ markers:
   - {type: page-break, offset: 7, content: '', id: KR4d0042_WYG_002-2a, image: WYG1095/WYG1095-0019a.png}
   - {type: page-break, offset: 7, content: '', id: KR4d0042_WYG_002-2b, image: WYG1095/WYG1095-0019b.png}
   - {type: page-break, offset: 7, content: '', id: KR4d0042_WYG_002-3a, image: WYG1095/WYG1095-0019c.png}
-  - {type: substitution, offset: 7, original: 鄕, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3390}}
   - {type: variant, offset: 9, length: 0, content: '', WYG: 者不敢過不肖者不敢不及此禮之大本也飲食既得衣服既備宫室既成器皿既利夫婦既正父子既親長㓜既分君臣既辨上下既列師友既立賓客既交死喪既厚祭祀既脩而天下大和矣人之和必有發也於是因其發而節之和久必怠也於是率其怠而行之率之不從也於是罰其不從以威之是三者禮之大用也同出扵禮而輔於禮者也不别不異不足以大行於世是故節其和者命之曰樂行其怠者命之曰政威其不從者命之曰刑此禮之三支也在禮之中有温厚而廣愛者有斷决而從宜者有疏逹而能謀者有固守而不變者是四者禮之大㫖也同出於禮而不可缺者也於是乎又别而異之温厚而廣愛者命之曰仁斷决而從宜者命之曰義疏逹而能謀者命之曰智固守而不變者命之曰信此禮之四名也三支者譬諸手足焉同生於人而輔於人者也手足不具頭腹豈可動哉手足具而人身舉三支立而禮本行四名者譬諸筋骸之類焉是亦同生於人而異其稱者也言乎人則手足筋骸在其中矣言乎禮則樂刑政仁義智信在其中矣故曰夫禮人道之凖世教之主也聖人之所以治天下國家脩身正心無他一於禮而已矣禮論第二或人不諭曰節其和者謂之樂行其怠者謂之政威其不從者謂之刑信然矣其所以統於禮者願聞其指曰昔者聖人之制禮也因十二月之氣分而為律吕因六律六吕作為十二管因其清濁與其輕重配而為五聲因其五聲變而雜之以為八音或為歌詩或被於金石絲竹匏土革木之器爰及干戚羽旄以導人之和心以舞人之手足小大有所終始有經倡和有秩節奏有差詘伸俯仰必有齊也綴兆行列必有正也宫軒特縣各當其位四六八羽各昭其數以範五行以調八}
   - {type: page-break, offset: 9, content: '', id: KR4d0042_WYG_002-3b, image: WYG1095/WYG1095-0019d.png}
   - {type: page-break, offset: 9, content: '', id: KR4d0042_WYG_002-4a, image: WYG1095/WYG1095-0020a.png}
@@ -990,7 +989,6 @@ markers:
   - {type: page-break, offset: 46, content: '', id: KR4d0042_WYG_028-19b}
   - {type: page-break, offset: 46, content: '', id: KR4d0042_WYG_028-20a}
   - {type: page-break, offset: 46, content: '', id: KR4d0042_WYG_028-20b}
-  - {type: substitution, offset: 47, original: 偪, replacement: 逼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1209}}
   - {type: variant, offset: 50, length: 1, content: 壠, WYG: 相之權王命出小臣之手禍亂之本莫斯}
   - {type: variant, offset: 52, length: 1, content: 院, WYG: 大女主幼君尚不及此陛下明聖焉得有之此可為切齒者也若以其書不可行用則安得執為符驗藍衫木簡便稱官人乗馬從徒平接有位國之常刑將焉用也且齪齪一夫飾以巧言自淮徂江若履無人之地設有大姦大賊造為妖妄誘脅州縣則孰能辨之哉太宗時李飛雄詐取驛馬騎之稱奉詔縛清水諸將入秦州將斬之以叛頼宗社之靈使自漏泄耳萬一復有此事其將奈何此又可為切齒者也若謂已受補牒}
   - {type: page-break, offset: 52, content: '', id: KR4d0042_WYG_028-21a}
@@ -1374,7 +1372,6 @@ markers:
   - {type: variant, offset: 148, length: 14, content: 魏矦峙祠墓乃復建亭朔吿必躬頓, WYG: 車向北歸蓬屋長簷數尺庇堂東疎漏從來只有蓬日影碎如秋樹下雨聲初似夜船中竹經蠧了多垂地箬到乾時半捲空此處想非人所競衆言千萬莫相攻堦基堂前一級似堦墀無石無甎只舊基泥飾頃因年節近蹋崩唯是客行時誰曾羅襪雙來上多謝蒼苔久不離從此便成貧景致竹簾垂處最相宜宜春臺謫官誰住小蓬萊唯有宜春有古臺千里待看毫末去萬家攢作畫圖來雲中羅綺香風落月底笙歌醉夢迴莫恠江山苦相助騷人没後得真才東湖古郡城池已瞰江重湖更在郡東方水仙坐下魚鱗赤龍女門前橘樹香路絶塵埃非灑掃地無風雨亦清凉使君待客多娯樂只有醒時覺}
   - {type: page-break, offset: 148, content: '', id: KR4d0042_WYG_037-16b}
   - {type: page-break, offset: 148, content: '', id: KR4d0042_WYG_037-17a}
-  - {type: substitution, offset: 158, original: 吿, replacement: 告, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3359}}
   - {type: 'kr:newline', offset: 160, content: '
 
       ', id: KR4d0042_krp_003-bkkkrnewl9}
@@ -1413,17 +1410,14 @@ markers:
   - {type: line-break, offset: 200, content: '', id: KR4d0042_SBCK_003-1b01}
   - {type: variant, offset: 205, length: 58, content: 年鋟之梓其将以開世之無耳目口心精爽人矣乎予方服侯之為㑹天子嘉侯治状改守袁州因誦泰伯袁學記爾袁得賢君之句而有感遂書其後, WYG: 使來巡撫攷未}
   - {type: variant, offset: 210, length: 1, content: 将, SBCK: 􅀅}
-  - {type: substitution, offset: 210, original: 将, replacement: 將, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0782}}
   - {type: 'kr:newline', offset: 220, content: '
 
       ', id: KR4d0042_krp_003-bkkkrnewl13}
   - {type: line-break, offset: 220, content: '', id: KR4d0042_SBCK_003-1b02}
-  - {type: substitution, offset: 225, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
   - {type: 'kr:newline', offset: 232, content: '
 
       ', id: KR4d0042_krp_003-bkkkrnewl14}
   - {type: line-break, offset: 232, content: '', id: KR4d0042_SBCK_003-1b03}
-  - {type: substitution, offset: 237, original: 状, replacement: 狀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0373}}
   - {type: variant, offset: 240, length: 1, content: 袁, SBCK: 􅀽}
   - {type: variant, offset: 246, length: 1, content: 袁, SBCK: 􅀽}
   - {type: variant, offset: 250, length: 1, content: 袁, SBCK: 􅀽}
@@ -1439,7 +1433,6 @@ markers:
 
       ', id: KR4d0042_krp_003-bkkkrnewl16}
   - {type: line-break, offset: 272, content: '', id: KR4d0042_SBCK_003-1b05}
-  - {type: substitution, offset: 273, original: 㣲, replacement: 微, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3560}}
   - {type: 'kr:newline', offset: 276, content: '
 
       ', id: KR4d0042_krp_003-bkkkrnewl17}
@@ -1449,4 +1442,4 @@ markers:
       ', id: KR4d0042_krp_003-bkkkrnewl18}
   - {type: variant, offset: 276, length: 0, content: '', WYG: 旴江}
   back: []
-hash: sha256:c1077dcfd2954df1bea5a5715f757fb002b5f63a05b02f489c4ea33e0c79b50e
+hash: sha256:57649307cff1df89e1f0d15ca4987e87a04cee902261c40438e7f0848827d638

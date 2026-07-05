@@ -12,7 +12,6 @@ markers:
   - {type: variant, offset: 1, length: 5, content: 講李先生門, WYG: 二曰剛克三曰柔克平康正直彊弗友剛克燮友柔克皆聖}
   - {type: page-break, offset: 1, content: '', id: KR4d0042_WYG_010-2b, image: WYG1095/WYG1095-0088d.png}
   - {type: variant, offset: 7, length: 5, content: 錄先生年譜, WYG: ''}
-  - {type: substitution, offset: 7, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   body:
   - {type: 'kr:newline', offset: 0, content: '
 
@@ -575,7 +574,6 @@ markers:
       ', id: KR4d0042_krp_022-bkkkrnewl3}
   - {type: line-break, offset: 38, content: '', id: KR4d0042_SBCK_022-1a04}
   - {type: indent, offset: 38, content: 　, id: KR4d0042_krp_022-bkkind3}
-  - {type: substitution, offset: 38, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
   - {type: variant, offset: 42, length: 1, content: 墓, WYG: 容側聆至言以辨大方因以卜已道之臧否幸亦多矣昨始至都下盖曾候問僕人然卒未克吐其區區今兹是用有言於左右執事其亦少留意乎覯嘗以明堂者古帝王之大事也而去聖乆逺規模莫見周禮考工記大戴禮盛德篇禮記月令室个之說參差不齊繇漢及唐老師大儒各執一經相為矛楯有國者不知所以裁定遂使布政之宫缺而不立雖有作者皆取臨時處置非復先王之法象覯謂周禮大戴禮禮記皆聖人賢人之所作述不宜輙有乖異反復思念則三家所指制度果同但立言質略意義弗顯訓傳之士泥文太過遂成派分故嘗挾而正之决而通之不以文害辭不以辭害意三家之說坦然大同堂室之度靡所回惑的的然如見成王周公享帝視朔朝諸侯於其上因作明堂定制圖一道并序約五千言非執事牽古知變不牽於世俗之論則不能以别此書然恐計府少暇重以煩暑未逮熟觀之謹先以所著潜書十五篇野記二篇禮論七篇塵穢几上試加一覽可粗見其存心苟不以菲薄而棄之時因休沐曲賜甄問則當奉法宫之議鋪陳於席次然後足以盡其才謂其善則薦之可也譽之可也其未至者則教而成之固儒師之職耳羇旅貧困無紙墨傭寫之資止於具草本而已伏惟仁賢畧其常禮而鑒其苦心幸甚幸甚不宣覯恐懼再拜上葉學士書省判學士執事覯生江楚間始數歲竊習其家書見晁董公孫之對問决科皆所以發天人之秘而彌縫國家之務漢往而唐聯幾百祀雖治亂相變而異人時有其稱得士之盛者率由是道及稍長鄉先生敎以速化之術則謂當今取人一出於辭賦}
   - {type: page-break, offset: 42, content: '', id: KR4d0042_WYG_027-14a}
   - {type: page-break, offset: 42, content: '', id: KR4d0042_WYG_027-14b}
@@ -586,7 +584,6 @@ markers:
   - {type: variant, offset: 45, length: 0, content: '', WYG: 牆伊邇有請見之路是用上問興居以適所願昔}
   - {type: variant, offset: 46, length: 2, content: 陞録, WYG: 有言曰唯賢知賢小人不敢自稱道顧可以當執事之知乎伏念覯草茅匹夫受性不甚魯唯其心志耿耿不忍自溺於流俗為學必欲見根本為文必欲先義理晨夜探劚力盡弗已而州郡不肯薦鄉黨不見稱年近三十隕穫日甚昨}
   - {type: page-break, offset: 46, content: '', id: KR4d0042_WYG_027-16b}
-  - {type: substitution, offset: 46, original: 陞, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0044}}
   - {type: variant, offset: 49, length: 0, content: '', WYG: 因謂京師忠賢所萃䇿試亡私奔走西嚮將覬覦其萬一未及弛擔而貢舉已罷矣羇栖輦轂兩經晦朔親老食盡又當歸寧踽踽而來恓恓而返士林不鑑其道有位不知其名背仕進之門而復入於寒餓之水火此亦烈夫好義所宜惜之也生平為文謹擇其二十四篇寫成一冊及所著明堂定制圖一道并序草具其副塵諸左右莅事之暇時賜觀覽足知覯心之所存焉冐黷威重伏增慙怖不宣覯再拜上李舎人書脩撰舎人執事洪惟天之清地之淳矞雲膏露所禀無幾甘泉紫芝僅承其餘是故其正氣也升之則為神降之則為賢神所以造萬物賢所以治萬物其致一也賢人之業莫先乎文文者豈徒筆札章句而已誠治物之器焉其大則核禮之序宣樂之和繕政典飾刑書上之為史則怙亂者懼下之為詩則失徳者戒發而為詔誥則國體明而官守備列而為奏議則闕政修而民隠露周還委曲非文曷濟禹益稷臯陶之謨虺之誥尹之訓周公之制作咸曰興國家靖生民矣自周道消孔子無位而死而秦嬴以烈火刼之漢由武定晚知儒術至今越}
   - {type: page-break, offset: 49, content: '', id: KR4d0042_WYG_027-17a}
   - {type: page-break, offset: 49, content: '', id: KR4d0042_WYG_027-17b}
@@ -604,7 +601,6 @@ markers:
   - {type: line-break, offset: 57, content: '', id: KR4d0042_SBCK_022-1a05}
   - {type: indent, offset: 57, content: 　, id: KR4d0042_krp_022-bkkind4}
   - {type: variant, offset: 57, length: 1, content: 攷, WYG: 復譽其大而褒其明也至于漢初老師大儒未盡凋落嗣而興}
-  - {type: substitution, offset: 57, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: variant, offset: 59, length: 1, content: 僅, WYG: 皆知稱先聖本仁義數百年中其秉筆者多有可采魏晉之後渉于南北斯道積羸日劇一日髙冠立朝不恤治具而相高老佛無用之談世主儲王而争誇姦聲亂色以為才思虛荒巧偽滅去義理俾元元之民雖有耳目弗能復視聽矣頼天相唐室生大賢以維持之李杜稱兵於前韓栁主盟於後誅邪賞正方内嚮服堯舜之道晦而復明周孔之教枯而復榮逮於朝家文章之懿高視前古者階於此也不意天宇之廣頽風未絶近年以來新進之士重為其所扇動不求經術而摭小說以為新不思理道而專雕鎪以為麗句千言萬莫辨首尾覧之若㳺於都市但見其晨而合夜而散紛紛藉藉不知其何氏也逺近傳習四方一體有司以備官之故姑用汎取𤨏辭謬舉無如之何聖人之門將復榛蕪矣所幸明后在阼賢臣在位慨然興念思遏其波凡曰有識孰不抃慰然詢於輿人則僉謂執事與禁掖數公謀救斯弊用心最切至覯僻逺之民也獲聞是語信之不疑誠以執事負大才業角馳英俊之塲疊為天下第一遭時結主坐致嚴近苟協咨同僚翊起正道鑿吾人之胷而歸以中和之氣固其職矣雖然世俗之仕難以道諭易以名誘誘之之術不在辭費胡不於廣衆之中擇其好古知道有出於人者浴其塵垢被以羽翼使奮飛於天衢庶夫聞見之者知所勸勉乎記曰以義度人則難為人以人望人則賢者可知矣若必求徳行如顔閔文學如㳺夏者而後取之則是待飛兎腰褭而乗車也伏惟稍卑其論而聽小人之請覯家扵南楚生二十有八年矣自総髪讀書羞以耿耿之心為流俗所昏醉開巻執筆輙欲闚見古作者之狀貌為之浸乆非敢自謂有所得然其用意不為不專矣家貧親老弗獲禄仕或怒其介或笑其迂左排右擠溝壑是虞今兹旅食上國日聞髙義不慚賤陋奉累閽守必欲招延雋傑激勸頑鄙顧可以隗為始乎昔牛竒章見稱於韓吏部而名遂籍甚退之非僧儒所可跂及也然而所以稱之者急於教道欲其行之者多庸兹奨勵而已耳今覯雖不才抑猶未肯與僧孺等列執事不為退之之事則已若其為之幸少留意焉嘗所著明堂定制圖一道并序其意在賛明經義以埤益一王之盛禮天門祕䆳未敢通獻謹繕其副陳諸座隅并以雜文二十四篇録為一冊繼用塵凟潤色多暇時賜財擇是所願也志切言直有犯威尊俯伏待罪不宣覯再拜上范待制書知府待制執事覯嘗聞之鶡冠子曰賤生於無所用中流失船一壺千金始猶未信今乃知之嗟乎古之為士者何其顯榮哉身弊緼而寵踰華衮腹藜糗而富埓千乗故有以南面之王而擁篲於匹夫公子國相而執轡於羸老兹戰國之事尚未足法漢有天命四履之逺化戎為華而猶求賢如不及州郡察焉四府辟焉一介之善無敢漏畧縣鄉小吏名汙賤者也翼之而仕角之而朝者往往有焉此無他盖有國者慮下情之壅遏得人以快耳目當塗者畏曠官之罪以舉賢為稱職習俗相尚氣焰薫灼而然也故于時能言以上多自琢飾閨門為仕進之階鄉黨乃榮名之路奨助風教夫豈小歟厥後古道不逞辭科浸長不由經濟一出聲病源而海之以至今日矧惟真帝在上皇天乃睠太平之根穏貫坤厚四鄙酣寝無雞鳴犬吠之警法令流暢罔或牴牾役夫賤類馳一乗之傳則足以呼舞諸侯矣}
   - {type: page-break, offset: 59, content: '', id: KR4d0042_WYG_027-20a}
   - {type: page-break, offset: 59, content: '', id: KR4d0042_WYG_027-20b}
@@ -619,11 +615,9 @@ markers:
   - {type: variant, offset: 67, length: 0, content: '', WYG: 曰宜學小則易工利近則可欲貟位有數而求之者多國朝患其或私謁也於是糊其名易其}
   - {type: page-break, offset: 67, content: '', id: KR4d0042_WYG_027-23b}
   - {type: variant, offset: 68, length: 1, content: 乆, WYG: 混致於考官之手固不知其立身之行幹蠱之才雖有仁如伯夷孝如曽參直如史魚㢘如於􅁜一語不中}
-  - {type: substitution, offset: 68, original: 乆, replacement: 久, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3214}}
   - {type: variant, offset: 70, length: 1, content: 愈, WYG: 生平委地况執其柄者時或非人聲律之中又有遺焉薦於鄉奏於禮部第於殿庭偶失偶得如奕棊耳名卿大臣以其}
   - {type: variant, offset: 72, length: 2, content: 可攷, WYG: 舉知之責也閉其口不復言天下士俛視同術疏若秦越養威重崇愛惡管庫之隸洒掃之僕皆得以保任而惜一言以舉遺逸雖然好古㓗㢘之士寧忍餓而死耳安能仰面以希其咳唾於戯學道之無益也如此夫宜其腐儒小生去本逐末父詔其子曰何必讀書姑誦賦而已矣兄教其弟曰何必有名姑程試而已矣}
   - {type: page-break, offset: 72, content: '', id: KR4d0042_WYG_027-24a}
-  - {type: substitution, offset: 73, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: variant, offset: 75, length: 9, content: 附録云陳次公字漢傑, WYG: 有縑緗凝塵不記篇目而致甲科帷薄汙辱市井不齒而諧美仕勸善懲惡將安在邪萬一史臣示書法於後世則赤墀之下當有任其責者矣噫非大賢君子其曷能矯之覯建昌}
   - {type: 'kr:newline', offset: 76, content: '
 
@@ -1125,7 +1119,6 @@ markers:
   - {type: line-break, offset: 136, content: '', id: KR4d0042_SBCK_022-1a10}
   - {type: indent, offset: 136, content: 　, id: KR4d0042_krp_022-bkkind8}
   - {type: variant, offset: 137, length: 12, content: 年先生臨終執其手託以遺文, WYG: 載一日不見已為疎松門大開俗不到水雲軒檻空清虚仰愛二友嗟不與欲别仙墅猶踟蹰}
-  - {type: substitution, offset: 152, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
   - {type: variant, offset: 154, length: 1, content: 乃, WYG: 并序門人陳}
   - {type: 'kr:newline', offset: 155, content: '
 
@@ -1154,14 +1147,12 @@ markers:
   - {type: line-break, offset: 188, content: '', id: KR4d0042_SBCK_022-1b03}
   - {type: indent, offset: 188, content: 　, id: KR4d0042_krp_022-bkkind10}
   - {type: variant, offset: 191, length: 15, content: 誌其墓野學於先生蚤有立操與陳次, WYG: 功用則任}
-  - {type: substitution, offset: 191, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
   - {type: 'kr:newline', offset: 207, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl14}
   - {type: line-break, offset: 207, content: '', id: KR4d0042_SBCK_022-1b04}
   - {type: indent, offset: 207, content: 　, id: KR4d0042_krp_022-bkkind11}
   - {type: variant, offset: 207, length: 10, content: 俱為門人稱首熈寧中郡, WYG: 卿尸教化而不用}
-  - {type: substitution, offset: 213, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1424}}
   - {type: variant, offset: 218, length: 12, content: 髙材淹滯聞㫖賜粟帛充軍學, WYG: 夫子之道}
   - {type: indent, offset: 223, content: 　, id: KR4d0042_krp_022-bkkind12}
   - {type: 'kr:newline', offset: 225, content: '
@@ -1170,7 +1161,6 @@ markers:
   - {type: line-break, offset: 225, content: '', id: KR4d0042_SBCK_022-1b05}
   - {type: indent, offset: 225, content: 　, id: KR4d0042_krp_022-bkkind13}
   - {type: variant, offset: 232, length: 0, content: '', WYG: 學者後之覽其遺書則知其所以然曾充茂才有富國安民强兵三策易禮二論合五十首天下傳誦及退居為周禮致太平論并序五十一首其敵天命又有潛書慶}
-  - {type: substitution, offset: 232, original: 歴, replacement: 歷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4508}}
   - {type: variant, offset: 233, length: 7, content: 明州定海尉歸隱, WYG: 民言寄范富孫公四書長江賦蓋不忍夫一世之傷而兩臂幾廢常語其徒其畧曰大哉孔子吾何能稱焉顔淵曰仰之彌高鑽之彌堅瞻之在前忽焉在後仰之彌高也則吾以為極星考之正之舍是則無四方矣鑽之彌堅也則吾以為磐石據之依之舍是則無安居矣瞻之在前忽焉在後也則吾以為鬼神生之斂之舍是則無庶物矣他人之道借曰善焉有之可也亡之可也夫子之道不可須臾去也不聞之是無耳也不見之是無目也不言之是無口也不學之不思之是無心無精爽也尚可以為人乎哉吾}
   - {type: page-break, offset: 233, content: '', id: KR4d0042_WYG_040-7b}
   - {type: variant, offset: 239, length: 1, content: 隱, SBCK: 􅀮}
@@ -1185,17 +1175,14 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl17}
   - {type: line-break, offset: 261, content: '', id: KR4d0042_SBCK_022-1b07}
-  - {type: substitution, offset: 265, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
   - {type: 'kr:newline', offset: 281, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl18}
   - {type: line-break, offset: 281, content: '', id: KR4d0042_SBCK_022-1b08}
-  - {type: substitution, offset: 287, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
   - {type: 'kr:newline', offset: 300, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl19}
   - {type: line-break, offset: 300, content: '', id: KR4d0042_SBCK_022-1b09}
-  - {type: substitution, offset: 312, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1424}}
   - {type: 'kr:newline', offset: 319, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl20}
@@ -1204,7 +1191,6 @@ markers:
   - {type: variant, offset: 326, length: 0, content: '', WYG: 畏之有駴則對之以狀察無溢美然後進之今為墓刻畏比神靈自祖禰以往丘蓋不言只於集中得子高墓表曰南城縣東北逺百里吾高祖之父家焉先夫人墓誌曰先君嘗學不應舉尤直信生平無所爭不識州縣廷終以不得意死又於官簿得曾祖諱某祖諱某父諱某母鄭氏始娶陳氏再娶饒氏有男}
   - {type: page-break, offset: 326, content: '', id: KR4d0042_WYG_040-8b}
   - {type: variant, offset: 328, length: 44, content: 佑甫登熈寧二年第仲甫髙尚不仕元祐中舉遺逸賜號和静先生李山甫字明叟避髙魯王諱以字行更字公晦, WYG: 三女長適陳汝翼而卒}
-  - {type: substitution, offset: 331, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1424}}
   - {type: 'kr:newline', offset: 338, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl21}
@@ -1213,7 +1199,6 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl22}
   - {type: line-break, offset: 338, content: '', id: KR4d0042_SBCK_022-2a01}
-  - {type: substitution, offset: 351, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4411}}
   - {type: 'kr:newline', offset: 354, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl23}
@@ -1248,8 +1233,6 @@ markers:
       ', id: KR4d0042_krp_022-bkkkrnewl27}
   - {type: line-break, offset: 424, content: '', id: KR4d0042_SBCK_022-2a06}
   - {type: indent, offset: 424, content: 　, id: KR4d0042_krp_022-bkkind16}
-  - {type: substitution, offset: 426, original: 㢘, replacement: 廉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1396}}
-  - {type: substitution, offset: 427, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: variant, offset: 436, length: 3, content: 第仕至, WYG: 祔先君之塋在鳳凰山足夫南城載于西漢地理志唐屬}
   - {type: variant, offset: 441, length: 3, content: 通判號, WYG: 臨川國朝别建軍曰建昌縣𨽻焉鳳凰山在縣西北城背之塋在麓東松檟萬株山川如畫乃真宅也然而其抱負如此天之報之止如此其後焉}
   - {type: 'kr:newline', offset: 443, content: '
@@ -1274,7 +1257,6 @@ markers:
       ', id: KR4d0042_krp_022-bkkkrnewl31}
   - {type: line-break, offset: 489, content: '', id: KR4d0042_SBCK_022-2a10}
   - {type: indent, offset: 489, content: 　, id: KR4d0042_krp_022-bkkind19}
-  - {type: substitution, offset: 503, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3160}}
   - {type: 'kr:newline', offset: 509, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl32}
@@ -1293,7 +1275,6 @@ markers:
       ', id: KR4d0042_krp_022-bkkkrnewl35}
   - {type: line-break, offset: 536, content: '', id: KR4d0042_SBCK_022-2b03}
   - {type: variant, offset: 536, length: 12, content: 黄曦字耀卿南城人學於先生, WYG: 士莫不知者下至農工負販士女釋老盡能誦其}
-  - {type: substitution, offset: 536, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
   - {type: variant, offset: 550, length: 8, content: 典麗南豐先生亟稱, WYG: 天子亦聞}
   - {type: page-break, offset: 550, content: '', id: KR4d0042_WYG_040-9a}
   - {type: 'kr:newline', offset: 556, content: '
@@ -1307,7 +1288,6 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl37}
   - {type: line-break, offset: 565, content: '', id: KR4d0042_SBCK_022-2b05}
-  - {type: substitution, offset: 581, original: 熈, replacement: 熙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1424}}
   - {type: 'kr:newline', offset: 585, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl38}
@@ -1317,13 +1297,11 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl39}
   - {type: line-break, offset: 598, content: '', id: KR4d0042_SBCK_022-2b07}
-  - {type: substitution, offset: 612, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4503}}
   - {type: 'kr:newline', offset: 618, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl40}
   - {type: line-break, offset: 618, content: '', id: KR4d0042_SBCK_022-2b08}
   - {type: indent, offset: 618, content: 　, id: KR4d0042_krp_022-bkkind23}
-  - {type: substitution, offset: 620, original: 爕, replacement: 燮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2557}}
   - {type: 'kr:newline', offset: 637, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl41}
@@ -1332,7 +1310,6 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl42}
   - {type: line-break, offset: 655, content: '', id: KR4d0042_SBCK_022-2b10}
-  - {type: substitution, offset: 671, original: 晩, replacement: 晚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3843}}
   - {type: 'kr:newline', offset: 675, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl43}
@@ -1351,7 +1328,6 @@ markers:
       ', id: KR4d0042_krp_022-bkkkrnewl46}
   - {type: line-break, offset: 701, content: '', id: KR4d0042_SBCK_022-3a03}
   - {type: indent, offset: 701, content: 　, id: KR4d0042_krp_022-bkkind25}
-  - {type: substitution, offset: 705, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'kr:newline', offset: 709, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl47}
@@ -1367,7 +1343,6 @@ markers:
   - {type: variant, offset: 742, length: 3, content: 二十四, WYG: 哲人既殞復何聊哉泣而銘曰余侍}
   - {type: variant, offset: 747, length: 1, content: 誌, WYG: 得堯舜禹湯文武周公孔子之事甚詳皆本書詩非諸子之緒言也於是浩歎魏晉之際莽卓之間惠慎之時聖人之道已大壊有由然及究莊生之言今世之仁人蒿目而憂世之患不仁之人決性命之情而饕富貴焉知曾史之不為桀跖之嚆矢曰儒者未嘗是之而余獨是之嗚呼天乎}
   - {type: page-break, offset: 747, content: '', id: KR4d0042_WYG_040-9b}
-  - {type: substitution, offset: 747, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
   - {type: 'kr:newline', offset: 748, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl49}
@@ -1408,7 +1383,6 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl57}
   - {type: line-break, offset: 835, content: '', id: KR4d0042_SBCK_022-3b03}
-  - {type: substitution, offset: 837, original: 爕, replacement: 燮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2557}}
   - {type: 'kr:newline', offset: 855, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl58}
@@ -1440,7 +1414,6 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl64}
   - {type: line-break, offset: 946, content: '', id: KR4d0042_SBCK_022-3b10}
-  - {type: substitution, offset: 946, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
   - {type: 'kr:newline', offset: 958, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl65}
@@ -1458,7 +1431,6 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl68}
   - {type: line-break, offset: 982, content: '', id: KR4d0042_SBCK_022-4a03}
-  - {type: substitution, offset: 982, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3154}}
   - {type: 'kr:newline', offset: 993, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl69}
@@ -1467,27 +1439,22 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl70}
   - {type: line-break, offset: 1004, content: '', id: KR4d0042_SBCK_022-4a05}
-  - {type: substitution, offset: 1004, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3154}}
   - {type: 'kr:newline', offset: 1014, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl71}
   - {type: line-break, offset: 1014, content: '', id: KR4d0042_SBCK_022-4a06}
   - {type: indent, offset: 1014, content: 　, id: KR4d0042_krp_022-bkkind29}
-  - {type: substitution, offset: 1028, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
   - {type: 'kr:newline', offset: 1033, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl72}
   - {type: line-break, offset: 1033, content: '', id: KR4d0042_SBCK_022-4a07}
   - {type: indent, offset: 1033, content: 　, id: KR4d0042_krp_022-bkkind30}
   - {type: variant, offset: 1034, length: 29, content: 髙弟竊有疑焉盖温伯他日為中丞進先生所為文奏乞官其一子温伯逰, WYG: 速哉何奪}
-  - {type: substitution, offset: 1040, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
-  - {type: substitution, offset: 1041, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
   - {type: 'kr:newline', offset: 1052, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl73}
   - {type: line-break, offset: 1052, content: '', id: KR4d0042_SBCK_022-4a08}
   - {type: indent, offset: 1052, content: 　, id: KR4d0042_krp_022-bkkind31}
-  - {type: substitution, offset: 1060, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4515}}
   - {type: variant, offset: 1066, length: 16, content: 門明矣然不䏻排新法之非識者惜之今, WYG: 速哉}
   - {type: 'kr:newline', offset: 1071, content: '
 
@@ -1509,19 +1476,16 @@ markers:
       ', id: KR4d0042_krp_022-bkkkrnewl77}
   - {type: line-break, offset: 1109, content: '', id: KR4d0042_SBCK_022-4b01}
   - {type: indent, offset: 1109, content: 　, id: KR4d0042_krp_022-bkkind34}
-  - {type: substitution, offset: 1117, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: 'kr:newline', offset: 1128, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl78}
   - {type: line-break, offset: 1128, content: '', id: KR4d0042_SBCK_022-4b02}
   - {type: indent, offset: 1128, content: 　, id: KR4d0042_krp_022-bkkind35}
-  - {type: substitution, offset: 1144, original: 鄕, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3390}}
   - {type: 'kr:newline', offset: 1147, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl79}
   - {type: line-break, offset: 1147, content: '', id: KR4d0042_SBCK_022-4b03}
   - {type: indent, offset: 1147, content: 　, id: KR4d0042_krp_022-bkkind36}
-  - {type: substitution, offset: 1154, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4503}}
   - {type: variant, offset: 1156, length: 116, content: 年主郡學而南豐以是年自洪州歸臨川上齊工部書云祖母樂居臨川其後為文多道臨川之事謂其在太學師之歟則直講以嘉祐二年為太學說書而南豐以是年登進士第明年調太平州法曹烏在其為師友㢤舊志所載若不加訂正襲訛承舛惟恐後人復誤後人也直講李先生門人録卷終, WYG: ''}
   - {type: 'kr:newline', offset: 1166, content: '
 
@@ -1544,7 +1508,6 @@ markers:
       ', id: KR4d0042_krp_022-bkkkrnewl83}
   - {type: line-break, offset: 1223, content: '', id: KR4d0042_SBCK_022-4b07}
   - {type: indent, offset: 1223, content: 　, id: KR4d0042_krp_022-bkkind40}
-  - {type: substitution, offset: 1239, original: 㢤, replacement: 哉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3148}}
   - {type: 'kr:newline', offset: 1242, content: '
 
       ', id: KR4d0042_krp_022-bkkkrnewl84}
@@ -1563,4 +1526,4 @@ markers:
 
       ', id: KR4d0042_krp_022-bkkkrnewl87}
   back: []
-hash: sha256:9d544d8437f4eb33595cf291e9a5343f2231afb5409d04cc0c775ad218c44ef8
+hash: sha256:cecb8745926e669ca4602f230162f27a32f50e143e98502c7f0138f7ffc3b213
