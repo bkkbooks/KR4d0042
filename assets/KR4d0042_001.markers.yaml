@@ -515,6 +515,7 @@ markers:
   - {type: variant, offset: 1275, length: 1, content: 脩, SBCK: 􅁱}
   - {type: substitution, offset: 1275, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 1288, content: (, id: KR4d0042_krp_001-bkkpn1}
+  - {type: voice, offset: 1288, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1289, content: ), id: KR4d0042_krp_001-bkkpn2}
   - {type: 'kr:newline', offset: 1292, content: '
 
@@ -598,4 +599,4 @@ markers:
 
       ', id: KR4d0042_krp_001-bkkkrnewl101}
   back: []
-hash: sha256:04ac309ea6d78735f32ed807f9ea4ef9e29f04e8629d35f4c16c34ffbec4e17e
+hash: sha256:2767e1bdd81a2678751b058c75623494188d5e16042daff22be3f84e201e2117

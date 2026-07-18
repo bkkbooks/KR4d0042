@@ -701,6 +701,7 @@ markers:
   - {type: punctuation, offset: 1627, content: (, id: KR4d0042_krp_004-bkkpn1}
   - {type: variant, offset: 1627, length: 1, content: 終, WYG: 欽定四庫全書旴江外集卷二}
   - {type: page-break, offset: 1627, content: '', id: KR4d0042_WYG_039-1a}
+  - {type: voice, offset: 1627, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1628, content: ), id: KR4d0042_krp_004-bkkpn2}
   - {type: 'kr:newline', offset: 1628, content: '
 
@@ -710,4 +711,4 @@ markers:
 
       ', id: KR4d0042_krp_004-bkkkrnewl118}
   back: []
-hash: sha256:8fbace33798a6b680a34a3fc634a7b8bf2115b775559a34e0e5d978f0e0d20a4
+hash: sha256:e85545bfdfef1bb7fe79055727c1ffa5cddbfb819b1ebe95f15e9f6a75fce19e
